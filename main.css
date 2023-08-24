@@ -96,8 +96,10 @@ table td img {
 
 .aprovado {
     background-color: #009432;
+    color: #fff;
 }
 
 .reprovado {
     background-color: #ee0f0f;
+    color: #fff;
 }
